@@ -1,5 +1,8 @@
 package art.elisaportfoliobackend.web.api;
 
+import java.awt.*;
+
+
 public class Painting {
     private long id;
     private String name;
